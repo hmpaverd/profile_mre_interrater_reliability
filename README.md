@@ -4,7 +4,7 @@ This repository contains the analysis code used to evaluate the agreement betwee
 ## Project Overview
 We assess the reproducibility of two major scoring systems:
 * **MaRIA:** Magnetic Resonance Index of Activity
-* **Lemann Index ** 
+* **Lemann Index** 
 
 ## Methods
 * **Statistical Metrics:** Intraclass Correlation Coefficient (ICC), Fleiss's kappa
